@@ -1,0 +1,36 @@
+[
+    {
+        "id": 0,
+        "title": "Horseshoe",
+        "type": "basic",
+        "materials": {
+            "material_title_1": "Wood", // name material 1
+            "material_slug_1": "material_wood", //slug material 1
+            "material_title_2": "Iron", //slug_name
+            "material_slug_2" : "material_iron",//slug material 1
+            "number_material1": 1,
+            "number_material2": 1
+        },
+        "cost": 5,
+        "slug": "recipe_horseshoe",
+        "xpgain": 10,
+        "goldgain": 150
+    },
+    {
+        "id": 1,
+        "title": "Sword",
+        "type": "basic",
+        "materials": {
+            "material_title_1": "Wood", // name material 1
+            "material_slug_1": "material_wood", //slug material 1
+            "material_title_2": "Iron", //slug_name
+            "material_slug_2" : "material_iron",//slug material 1
+            "number_material1": 2,
+            "number_material2": 1
+        },
+        "cost": 12,
+        "slug": "recipe_sword",
+        "xpgain": 50,
+        "goldgain": 500
+    }
+]

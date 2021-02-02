@@ -1,0 +1,45 @@
+[
+    {
+        "id": 0,
+        "title": "Swords for King",
+        "description": "Forge 10 swords for the King",
+        "type": "basic",
+        "itens": {
+            "item_need_1": "Sword", // name material 1
+            "item_amount_1": 2, //slug material 1
+            "item_slug_1": "recipe_sword"
+        },
+        "slug": "recipe_horseshoe",
+        "xpgain": 100,
+        "goldgain": 1000
+    },
+    {
+        "id": 1,
+        "title": "Piroca para rainha",
+        "description": "forge umas rolas",
+        "type": "basic",
+        "itens": {
+            "item_need_1": "Horseshoe", // name material 1
+            "item_amount_1": 2, //slug material 1
+            "item_slug_1": "recipe_horseshoe"
+        },
+        "slug": "recipe_horseshoe",
+        "xpgain": 50,
+        "goldgain": 80
+    },
+    {
+        "id": 2,
+        "title": "Piroca para o rei",
+        "description": "forge umas rolas ele curte",
+        "type": "basic",
+        "itens": {
+            "item_need_1": "Horseshoe", // name material 1
+            "item_amount_1": 5, //slug material 1
+            "item_slug_1": "recipe_horseshoe"
+        },
+        "slug": "recipe_horseshoe",
+        "xpgain": 50,
+        "goldgain": 80
+    }
+
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "title": "Wood",
+        "value_sell": 50,
+        "value_buy": 70,
+        "description": "Wood for forge things",
+        "stackable": true,
+        "slug": "material_wood"
+
+    },
+    {
+        "id": 1,
+        "title": "Iron",
+        "value_sell": 100,
+        "value_buy": 140,
+        "description": "Iron for forge things",
+        "stackable": true,
+        "slug": "material_iron"
+    },
+    {
+        "id": 2,
+        "title": "Gold",
+        "value_sell": 500,
+        "value_buy": 700,
+        "description": "Gold for forge things",
+        "stackable": true,
+        "slug": "material_gold"
+    },
+    {
+        "id": 3,
+        "title": "Diamond",
+        "value_sell": 1200,
+        "value_buy": 2000,
+        "description": "Shine!",
+        "stackable": true,
+        "slug": "material_diamond"
+    }
+]

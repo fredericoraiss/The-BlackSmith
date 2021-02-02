@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<MaterialsCollection>
+
+	<Materials>
+		<Material name = "Wood">
+      <Value>100</Value>
+      <Description>"This is a one simple pice of wood"</Description>
+		</Material>
+
+    <Material name = "Iron">
+      <Value>120</Value>
+      <Description>"This is a one simple pice of iron"</Description>
+    </Material>
+
+    <Material name = "Gold">
+      <Value>500</Value>
+      <Description>"This is a one simple pice of Gold"</Description>
+    </Material>
+	</Materials>
+
+</MaterialsCollection>
